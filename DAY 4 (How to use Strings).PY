@@ -1,0 +1,8 @@
+name  = input("Enter Your Full   Name :")
+print(name)
+x = upper(name)
+print("Your Name in Uppercase :" ,  x)
+y = lower(name)
+print("Your Name in Lowercase :", y )
+z = int(input(name))
+print("Toatal number of letters in your Name :" , z)
