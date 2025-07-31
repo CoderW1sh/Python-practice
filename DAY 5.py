@@ -6,7 +6,5 @@ if    x>y :
 elif  x<y:
         print(x/y)
 else:
-       print(x- y)
-
-       print("The Output is")
+print("The Output is")
        
