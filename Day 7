@@ -1,0 +1,4 @@
+for c in range (100,8001,2000):
+    print("You can do it . You can build that beast PC, but you need tp have a Patience.")
+print("Best of Luck")for c in range (100,8001,2000):
+   
